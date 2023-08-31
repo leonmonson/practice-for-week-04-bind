@@ -1,1 +1,2 @@
-// Your code here
+class employee
+  constructor(employee.name
